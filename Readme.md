@@ -93,7 +93,7 @@ CREATE DATABASE backend;
 spring.datasource.url=jdbc:mysql://localhost:3306/backend
 spring.datasource.username=rooT
 spring.datasource.password=<YOUR-DB-PASSWORD>
-
+```
 ### 3. Backend Setup
 ```bash
 # Navigate to backend directory
