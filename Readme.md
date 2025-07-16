@@ -91,9 +91,8 @@ CREATE DATABASE backend;
 3. Update database credentials in `fullstack_backend/src/main/resources/application.properties` if needed:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/backend
-spring.datasource.username=root
-spring.datasource.password=Root@1234
-```
+spring.datasource.username=rooT
+spring.datasource.password=<YOUR-DB-PASSWORD>
 
 ### 3. Backend Setup
 ```bash
